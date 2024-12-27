@@ -19,7 +19,6 @@ body {
     border-radius: 5px;
     padding: 5px;
     display: flex;
-    /* justify-content: center; */
     flex-direction: column;
 }
 
@@ -68,7 +67,6 @@ input[type="text"] {
 
 h4 {
     margin: 10px 30px;
-    /* text-transform: capitalize; */
 }
 
 hr {
@@ -102,4 +100,4 @@ button:disabled {
 }
 button:disabled:hover {
   background-color: gray;
-}
+} 
